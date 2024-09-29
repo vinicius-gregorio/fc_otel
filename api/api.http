@@ -1,0 +1,11 @@
+### GET temperature by cep - with trace
+GET http://localhost:3001/11075301
+
+
+
+### GET temperature by cep - with trace [ERROR]
+GET http://localhost:3001/2dsa41a3
+
+
+### GET temperature by cep - with trace [ERROR]
+GET http://localhost:3001/22
